@@ -2,3 +2,4 @@ lechuga
 carne
 pollo
 arroz
+champis
